@@ -1,5 +1,8 @@
 title            : RBootcamp5
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-university       : DataCamp
-difficulty_level : 2
+description      : This is the last workshop session. You will learn about string manipulation, regular expressions, for loops and some preprocessing techniques.
+university       : Indiana University
+instructors      :
+   - obscrivn@indiana.edu
+   -  majdavis@iu.edu
+difficulty_level : 1
 time_needed      : 1 hour
