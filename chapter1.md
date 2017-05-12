@@ -12,7 +12,7 @@ attachments :
 
 When you are done downloading files and you have studied the lecture, please complite the survey about this Rbootcamp.
 
-* Survey: [IU Qualtrics-Survey](https://iu.co1.qualtrics.com/jfe/form/SV_bp9NE1Rjo7mF8Mt)
+* Survey: [IU Qualtrics-Survey](https://iu.co1.qualtrics.com/jfe/form/SV_6hzf2sdZkmWOuq1)
 
 When you are ready, select DONE and proceed to your next assignment for today: the 1st chapter of the course **Text Mining Bag of Words**
 
