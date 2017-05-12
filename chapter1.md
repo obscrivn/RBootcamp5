@@ -34,8 +34,8 @@ When you are ready, select DONE and proceed to your next assignment for today: t
 ```{r}
 # SCT written with testwhat: https://github.com/datacamp/testwhat/wiki
 
-msg1 <- "Click Done"
-msg2 <- "Great Job. Hope to see you again!"
+msg1 <- "Great Job. Hope to see you again!"
+msg2 <- "Click Done"
 test_mc(correct = 1, feedback_msgs = c(msg1,msg2))
 ```
 
